@@ -188,7 +188,7 @@ export default function AIAnalysisPage() {
                 <p className="text-sm text-gray-300 leading-relaxed">{result.recommendation}</p>
               </div>
 
-              <p className="text-[10px] text-gray-600 text-center">Processed in {result.processingTime}ms · Model: GreenPulse-Vision v2.1</p>
+              <p className="text-[10px] text-gray-600 text-center">Processed in {result.processingTime}ms · Model: EcoMind-Vision v2.1</p>
             </div>
           )}
         </div>

@@ -3,7 +3,7 @@ import "./globals.css";
 import LayoutShell from "@/components/layout/layout-shell";
 
 export const metadata: Metadata = {
-  title: "GreenPulse AI — Urban Tree Intelligence Platform",
+  title: "EcoMind AI — Urban Tree Intelligence Platform",
   description: "AI-powered urban tree health monitoring, pollution analytics, and carbon impact platform for smarter, greener cities.",
   keywords: ["urban forestry", "tree health", "AI", "pollution monitoring", "carbon capture", "smart city"],
 };

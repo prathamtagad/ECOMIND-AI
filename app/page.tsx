@@ -30,7 +30,7 @@ export default function LandingPage() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary-500 to-primary-700 flex items-center justify-center">
               <Leaf size={16} className="text-white" />
             </div>
-            <span className="font-bold text-lg text-white">GreenPulse<span className="text-primary-400"> AI</span></span>
+            <span className="font-bold text-lg text-white">EcoMind<span className="text-primary-400"> AI</span></span>
           </Link>
           <Link href="/dashboard" className="px-5 py-2 bg-primary-600 hover:bg-primary-500 text-white text-sm font-semibold rounded-xl transition-all hover:shadow-lg hover:shadow-primary-600/20">
             Open Dashboard
@@ -60,7 +60,7 @@ export default function LandingPage() {
           </h1>
 
           <p className="text-lg sm:text-xl text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed animate-slide-up stagger-3">
-            GreenPulse AI transforms urban forestry with AI-powered health detection,
+            EcoMind AI transforms urban forestry with AI-powered health detection,
             real-time pollution mapping, and data-driven plantation intelligence.
           </p>
 
@@ -133,7 +133,7 @@ export default function LandingPage() {
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <Leaf size={16} className="text-primary-500" />
-            <span className="text-sm text-gray-500">GreenPulse AI · ECOMIND AI</span>
+            <span className="text-sm text-gray-500">EcoMind AI · ECOMIND AI</span>
           </div>
           <p className="text-xs text-gray-600">Built for Green-Tech Hackathon 2026 · SGSITS</p>
         </div>

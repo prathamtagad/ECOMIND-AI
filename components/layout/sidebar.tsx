@@ -53,7 +53,7 @@ export default function Sidebar() {
             <Leaf size={20} className="text-white" />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white tracking-tight">GreenPulse</h1>
+            <h1 className="text-lg font-bold text-white tracking-tight">EcoMind</h1>
             <p className="text-[10px] text-primary-400 font-medium tracking-widest uppercase">AI Platform</p>
           </div>
         </Link>
